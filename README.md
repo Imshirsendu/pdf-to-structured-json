@@ -15,7 +15,7 @@ This project requires specific system-level tools to handle image processing and
 # 1. Poppler (PDF Rendering)
 Poppler is required for the library to understand PDF structure and page layouts.
 
-Windows: Download the latest binaries from "https://github.com/oschwartz10612/poppler-windows/releases"(I have already uploaded the poppler file so that you can download the zip) 
+Windows: Download the latest binaries from "https://github.com/oschwartz10612/poppler-windows/releases" (I have already uploaded the poppler file so that you can download the zip) 
 # 1. Setup Poppler
 Download the latest Poppler binary (e.g., Release-xx.xx.0-0.zip) from the Poppler for Windows GitHub.
 
